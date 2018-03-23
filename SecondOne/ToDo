@@ -1,0 +1,11 @@
+1. Sa se scrie o aplicatie Ptython orientata pe obiecte pentru un automat bancar (ATM). Un automat bancar poate fi
+posesorul unei banci si poate accepta tranzactii bancare pentru o alta banca, posesoare a automatului. Aplicatia
+trebuie sa permita principalele operatii efectuate în timpul unei sesiuni de lucru:
+- Deschiderea unei sesiuni de lucru
+- Închiderea sesiunii de lucru
+- Efectuarea principalelor tranzactii:
+ extragerea unei sume de bani dint contul cadrului,
+ depunerea unei sume de bani in cont,
+ afisarea soldului contului curent.
+Deschiderea unei sesiuni de lucru începe prin introducerea unui card în automat si verificarea validitatii informatiilor
+de pe card prin interogarea bancii proprietare a automatului bancar.
